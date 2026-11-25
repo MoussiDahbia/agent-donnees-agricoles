@@ -1,0 +1,9 @@
+# Réglages et clés secrètes : ne jamais publier
+.env
+
+# Données téléchargées depuis Kaggle
+data/*.csv
+
+# Fichiers générés par Python
+__pycache__/
+.venv/
